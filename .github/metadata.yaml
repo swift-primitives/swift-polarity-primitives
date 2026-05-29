@@ -1,0 +1,8 @@
+# .github/metadata.yaml
+description: "Polarity (the positive/negative/neutral sign primitive) for Swift."
+topics:
+  - primitives
+  - polarity
+  - sign
+  - type-safety
+homepage: "https://swift-institute.org"
