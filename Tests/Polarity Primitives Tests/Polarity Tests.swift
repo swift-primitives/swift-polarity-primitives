@@ -1,7 +1,7 @@
 // Polarity Tests.swift
 
-import Polarity_Primitives_Test_Support
 import Pair_Primitives
+import Polarity_Primitives_Test_Support
 import Testing
 
 @Suite

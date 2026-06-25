@@ -42,7 +42,7 @@ extension Polarity {
     /// Opposite polarity (swaps positive↔negative, preserves neutral).
     @inlinable
     public var opposite: Polarity {
-        Polarity.opposite(of: self)
+        Self.opposite(of: self)
     }
 
     /// Returns the opposite polarity.
