@@ -7,6 +7,8 @@ import Testing
 @Suite
 struct `Polarity Tests` {
     @Suite struct Unit {}
+    @Suite struct `Edge Case` {}
+    @Suite struct Integration {}
 }
 
 // MARK: - Unit
