@@ -1,5 +1,3 @@
-// Polarity Tests.swift
-
 import Pair_Primitives
 import Polarity_Primitives_Test_Support
 import Testing
@@ -10,8 +8,6 @@ struct `Polarity Tests` {
     @Suite struct `Edge Case` {}
     @Suite struct Integration {}
 }
-
-// MARK: - Unit
 
 extension `Polarity Tests`.Unit {
 
